@@ -1,0 +1,49 @@
+h1 {
+    color:rgb(203, 17, 240);
+    text-align: center;
+    font-style: oblique;
+}
+
+body {
+    background-color:darkslateblue
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0%;
+    width: 40%;
+}
+
+#title-name {
+    text-align: center;
+    font-size:x-large;
+    color: rgb(136, 255, 0);
+    font-style: content: '\e81d';;
+}
+
+.info{
+    text-align: center;
+    font-size: large;
+    color:rgb(204, 153, 24)
+}
+
+.span{
+    color:antiquewhite
+}
+
+#btn{
+    font-size: x-large;
+    padding: 5px 24px;
+    border-radius: 12px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto ;
+    background-color: rgb(192, 155, 216);
+
+}
+
+.list-of-films{
+    color: rgb(239, 243, 248);
+}

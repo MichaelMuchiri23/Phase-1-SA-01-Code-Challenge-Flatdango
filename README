@@ -1,3 +1,10 @@
 FLATDANGO CODE CHALLENGE
 -In this phase-1-code-challenge-wk3 folder contains the files used in 
  making the Flatdango website.
+
+-I created a websiite from scratch using the html,css and JavaScript
+ files.
+
+-Afterwards,I launched the json server to watch the db.json file and 
+ used fetch commands to retrieve data from the mock server then used
+ the data to manipulated the DOM.
